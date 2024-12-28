@@ -7,7 +7,7 @@ body {
 .categories {
   margin-top: 30px;
   display: flex; /* Change to flexbox for horizontal layout */
-  justify-content: space-between; /* Center the buttons horizontally */
+  justify-content: center; /* Center the buttons horizontally */
 }
 .category {
   font-family: monospace;
