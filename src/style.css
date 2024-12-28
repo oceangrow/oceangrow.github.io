@@ -2,7 +2,6 @@ body {
   color: white;
   background-image: url(../img/matrix.gif);
   font-family: monospace;
-  filter: drop-shadow(0 0 15px navajowhite);
 }
 
 .categories {
