@@ -2,8 +2,7 @@ body {
   color: white;
   background-image: url(../img/matrix.gif);
   font-family: monospace;
-  zoom: 0.8; /* Уменьшаем масштаб на 20% */
-  filter: drop-shadow(0 0 115px navajowhite);
+  filter: drop-shadow(0 0 15px navajowhite);
 }
 
 .categories {
